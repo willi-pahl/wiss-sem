@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.8.23)  7 MAY 2022 22:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.8.23)  17 MAY 2022 23:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -378,6 +378,26 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
 \Hy@SectionHShift=\skip70
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen198
+\Gin@req@width=\dimen199
 ))
 \@input{content/title.aux}
 \openout2 = `content/title.aux'.
@@ -407,7 +427,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
-\big@size=\dimen198
+\big@size=\dimen256
 LaTeX Info: Redefining \microtypecontext on input line 28.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
@@ -480,6 +500,29 @@ LaTeX Info: Redefining \nameref on input line 28.
 \@outlinefile=\write3
 \openout3 = `wiss_sem.out'.
 
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count301
+\scratchdimen=\dimen257
+\scratchbox=\box52
+\nofMPsegments=\count302
+\nofMParguments=\count303
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count304
+\MPscratchDim=\dimen258
+\MPnumerator=\count305
+\makeMPintoPDFobject=\count306
+\everyMPtoPDFconversion=\toks22
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 
 32.
 
@@ -522,24 +565,13 @@ Package microtype Info: Character `029' is missing
 Underfull \vbox (badness 1454) has occurred while \output is active []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
-\T1/pplx/m/n/10 (+20) entscheiden auf Ba-sis von Verhaltens-,
- []
+(./content/main-content.tex
+LaTeX Font Info:    Trying to load font information for TS1+pplx on input line 
+5.
 
-
-Underfull \hbox (badness 2529) in paragraph at lines 44--45
-\T1/pplx/m/n/10 (+20) an-ge-bo-ten wer-den und er-mög-li-chen den
- []
-
-
-Underfull \hbox (badness 1590) in paragraph at lines 45--45
-|\T1/pplx/m/n/12 (+20) iii. In-tel-li-gen-te Lie-fer-rou-ten und -
- []
-
-
-Underfull \vbox (badness 3557) has occurred while \output is active []
-
- [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1pplx.fd
+File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
+) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
 
@@ -549,32 +581,210 @@ Underfull \vbox (badness 3557) has occurred while \output is active []
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 50--50
-|\T1/pplx/m/n/12 (+20) ii. In-tel-li-gen-te Pro-dukt-dar-stel-lung
+Package epstopdf Info: Source file: <images/classification_data_mining_tasks.ep
+s>
+(epstopdf)                    date: 2022-05-15 12:12:15
+(epstopdf)                    size: 241835 bytes
+(epstopdf)             Output file: <images/classification_data_mining_tasks-ep
+s-converted-to.pdf>
+(epstopdf)                    date: 2022-05-15 13:49:27
+(epstopdf)                    size: 68556 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/classification_data
+_mining_tasks-eps-converted-to.pdf images/classification_data_mining_tasks.eps>
+
+(epstopdf)             \includegraphics on input line 28.
+Package epstopdf Info: Output file is already uptodate.
+<images/classification_data_mining_tasks-eps-converted-to.pdf, id=48, 654.445pt
+ x 367.3725pt>
+File: images/classification_data_mining_tasks-eps-converted-to.pdf Graphic file
+ (type pdf)
+<use images/classification_data_mining_tasks-eps-converted-to.pdf>
+Package pdftex.def Info: images/classification_data_mining_tasks-eps-converted-
+to.pdf  used on input line 28.
+(pdftex.def)             Requested size: 205.0023pt x 115.0783pt.
+Package epstopdf Info: Source file: <images/ecommerce-eco-system.eps>
+(epstopdf)                    date: 2022-05-15 12:13:02
+(epstopdf)                    size: 111287 bytes
+(epstopdf)             Output file: <images/ecommerce-eco-system-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2022-05-15 14:36:45
+(epstopdf)                    size: 26927 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/ecommerce-eco-syste
+m-eps-converted-to.pdf images/ecommerce-eco-system.eps>
+(epstopdf)             \includegraphics on input line 38.
+Package epstopdf Info: Output file is already uptodate.
+<images/ecommerce-eco-system-eps-converted-to.pdf, id=53, 542.025pt x 294.09875
+pt>
+File: images/ecommerce-eco-system-eps-converted-to.pdf Graphic file (type pdf)
+<use images/ecommerce-eco-system-eps-converted-to.pdf>
+Package pdftex.def Info: images/ecommerce-eco-system-eps-converted-to.pdf  used
+ on input line 38.
+(pdftex.def)             Requested size: 205.0023pt x 111.23363pt.
+
+Underfull \hbox (badness 1024) in paragraph at lines 43--43
+|\T1/pplx/m/n/12 (+20) iii. Pro-zes-se der künst-li-che In-tel-li-
  []
 
-(./wiss_sem.bbl) [2] (./wiss_sem.aux)
+Package epstopdf Info: Source file: <images/ki-bereiche_glaess.eps>
+(epstopdf)                    date: 2022-05-15 14:28:56
+(epstopdf)                    size: 289673 bytes
+(epstopdf)             Output file: <images/ki-bereiche_glaess-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2022-05-15 14:29:14
+(epstopdf)                    size: 83318 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/ki-bereiche_glaess-
+eps-converted-to.pdf images/ki-bereiche_glaess.eps>
+(epstopdf)             \includegraphics on input line 56.
+Package epstopdf Info: Output file is already uptodate.
+<images/ki-bereiche_glaess-eps-converted-to.pdf, id=57, 622.325pt x 274.02374pt
+>
+File: images/ki-bereiche_glaess-eps-converted-to.pdf Graphic file (type pdf)
+<use images/ki-bereiche_glaess-eps-converted-to.pdf>
+Package pdftex.def Info: images/ki-bereiche_glaess-eps-converted-to.pdf  used o
+n input line 56.
+(pdftex.def)             Requested size: 205.0023pt x 90.26505pt.
+[2 <./images/classification_data_mining_tasks-eps-converted-to.pdf> <./images/e
+commerce-eco-system-eps-converted-to.pdf>] [3 <./images/ki-bereiche_glaess-eps-
+converted-to.pdf>] [4]
+Underfull \hbox (badness 3291) in paragraph at lines 131--132
+[] \T1/pplx/b/n/10 (+20) Chat-bots \T1/pplx/m/n/10 (+20) bie-ten 24/7-Online-Ku
+n-den-be-ra-
+ []
+
+) [5] (./wiss_sem.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 4--9
+[]\T1/pplx/m/n/10 (+20) W. Lau-renz", ``Da-ta Mi-ning: Al-go-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--9
+\T1/pplx/m/n/10 (+20) rith-men, De-fi-ni-ti-on, Me-tho-den und
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--9
+\T1/pplx/m/n/10 (+20) An-wen-dungs-bei-spie-le.''  [On-li-ne].
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--9
+[]\T1/pplx/m/n/10 (+20) https://datasolut.com/was-ist-data-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--15
+[]\T1/pplx/m/n/10 (+20) ``Headless ^^U für mehr fle-xi-bi-li-tät
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--15
+\T1/pplx/m/n/10 (+20) im e-commerce.''  [On-li-ne]. []htt-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--15
+\T1/pplx/m/n/10 (+20) ps://www.netz98.de/magento/headless[].
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--23
+[]\T1/pplx/m/n/10 (+20) T. Per-s-ke", ``He-ad-less E-Commerce:
+ []
+
+
+Underfull \hbox (badness 3895) in paragraph at lines 17--23
+\T1/pplx/m/n/10 (+20) Wie es funk-tio-niert und für wel-che
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--23
+[]\T1/pplx/m/n/10 (+20) htt-ps://hybridbanker.de/2021/07/12/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--23
+\T1/pplx/m/n/10 (+20) headless-e-commerce-wie-es-funktioniert-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--23
+\T1/pplx/m/n/10 (+20) und-fuer-welche-zwecke-es-sich-lohnt[].
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--34
+[]\T1/pplx/m/n/10 (+20) M. . Com-pa-ny, ``Dy-na-mic Pri-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--34
+\T1/pplx/m/n/10 (+20) cing in e-Commerce.''  [On-li-ne].
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--34
+[]\T1/pplx/m/n/10 (+20) https://www.mckinsey.com/business-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--34
+\T1/pplx/m/n/10 (+20) functions/growth-marketing-and-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--34
+\T1/pplx/m/n/10 (+20) sales/how-we-help-clients/dynamic-
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 36--41
+[]\T1/pplx/m/n/10 (+20) Chatlogue, ``Chat-bots im E-Commerce
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--41
+\T1/pplx/m/n/10 (+20) - Chat-bots ver-bes-sern die Kun-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--41
+\T1/pplx/m/n/10 (+20) den-kom-mu-ni-ka-ti-on.''  [On-li-ne].
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--41
+[]\T1/pplx/m/n/10 (+20) https://chatlogue.com/chatbots-im-e-
+ []
+
+
+Underfull \hbox (badness 6364) in paragraph at lines 36--41
+\T1/pplx/m/n/10 (+20) commerce/[]. [ab-ge-ru-fen am 17. Mai
+ []
+
+) [6
+
+] (./wiss_sem.aux)
 Package rerunfilecheck Info: File `wiss_sem.out' has not changed.
-(rerunfilecheck)             Checksum: 84669144EC7BD80411C00C27666A0BEF;972.
+(rerunfilecheck)             Checksum: 076C926BEB2422E5ACF7F49EDBEC13CE;624.
  ) 
 Here is how much of TeX's memory you used:
- 10530 strings out of 479304
- 167792 string characters out of 5869779
- 528300 words of memory out of 5000000
- 27312 multiletter control sequences out of 15000+600000
- 447402 words of font info for 215 fonts, out of 8000000 for 9000
+ 11507 strings out of 479304
+ 181711 string characters out of 5869779
+ 543272 words of memory out of 5000000
+ 28106 multiletter control sequences out of 15000+600000
+ 456460 words of font info for 307 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 78i,13n,79p,444b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 78i,13n,79p,1161b,400s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/pa
 latino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri
 8a.pfb>
-Output written on wiss_sem.pdf (2 pages, 88260 bytes).
+Output written on wiss_sem.pdf (6 pages, 276637 bytes).
 PDF statistics:
- 97 PDF objects out of 1000 (max. 8388607)
- 87 compressed objects within 1 object stream
- 17 named destinations out of 1000 (max. 500000)
- 62569 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 205 PDF objects out of 1000 (max. 8388607)
+ 187 compressed objects within 2 object streams
+ 34 named destinations out of 1000 (max. 500000)
+ 72784 words of extra memory for PDF output out of 74296 (max. 10000000)
 
