@@ -1,3 +1,42 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
+
+\bibitem{laurenz_data_mining}
+W.~Laurenz, ``{D}ata {M}ining: {A}lgorithmen, {D}efinition, {M}ethoden und
+  {A}nwendungsbeispiele.''
+\newblock [Online].
+  \href{https://datasolut.com/was-ist-data-mining}{https://datasolut.com/was-ist-data-mining}.
+  [abgerufen am 15. Mai 2022].
+
+\bibitem{netz98_headless_commerce}
+``Headless – für mehr flexibilität im e-commerce.''
+\newblock [Online].
+  \href{https://www.netz98.de/magento/headless}{https://www.netz98.de/magento/headless}.
+  [abgerufen am 15. Mai 2022].
+
+\bibitem{perske_headless_commerce}
+T.~Perske, ``{H}eadless {E}-{C}ommerce: {W}ie es funktioniert und für welche
+  {Z}wecke es sich lohnt,'' Juli 2021.
+\newblock [Online].
+  \href{https://hybridbanker.de/2021/07/12/headless-e-commerce-wie-es-funktioniert-und-fuer-welche-zwecke-es-sich-lohnt}{https://hybridbanker.de/2021/07/12/
+  headless-e-commerce-wie-es-funktioniert-und-fuer-welche-zwecke-es-sich-lohnt}.
+  [abgerufen am 15. Mai 2022].
+
+\bibitem{glaess2018kuenstliche}
+R.~Gl{\"a}{\ss}, {\em K{\"u}nstliche Intelligenz im Handel 1 -- {\"U}berblick:
+  Digitale Komplexit{\"a}t managen und Entscheidungen unterst{\"u}tzen}.
+\newblock essentials, Springer Fachmedien Wiesbaden, 2018.
+
+\bibitem{mckinsey_dynamic_pricing}
+McKinsey, ``{D}ynamic {P}ricing in e-{C}ommerce.''
+\newblock [Online].
+  \href{https://www.mckinsey.com/business-functions/growth-marketing-and-sales/how-we-help-clients/dynamic-pricing}{https://www.mckinsey.com/business-functions/growth-marketing-and-sales/how-we-help-clients/dynamic-pricing}.
+  [abgerufen am 17. Mai 2022].
+
+\bibitem{chatlogue_chatbot_tasks}
+Chatlogue, ``{C}hatbots im {E}-{C}om\-merce - {C}hatbots verbessern die
+  {K}un\-den\-kom\-mu\-ni\-ka\-tion.''
+\newblock [Online].
+  \href{https://chatlogue.com/chatbots-im-e-commerce/}{https://chatlogue.com/chatbots-im-e-commerce/}.
+  [abgerufen am 17. Mai 2022].
 
 \end{thebibliography}
