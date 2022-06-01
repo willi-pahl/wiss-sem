@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{laurenz_data_mining}
 W.~Laurenz, ``{D}ata {M}ining: {A}lgorithmen, {D}efinition, {M}ethoden und
@@ -29,14 +29,82 @@ R.~Gl{\"a}{\ss}, {\em K{\"u}nstliche Intelligenz im Handel 1 -- {\"U}berblick:
 \bibitem{mckinsey_dynamic_pricing}
 McKinsey, ``{D}ynamic {P}ricing in e-{C}ommerce.''
 \newblock [Online].
-  \href{https://www.mckinsey.com/business-functions/growth-marketing-and-sales/how-we-help-clients/dynamic-pricing}{https://www.mckinsey.com/business-functions/growth-marketing-and-sales/how-we-help-clients/dynamic-pricing}.
-  [abgerufen am 17. Mai 2022].
+  \href{https://www.mckinsey.com/business-functions/growth-marketing-and-sales/how-we-help-clients/dynamic-pricing}{https://
+  www.mckinsey.com/business-functions/
+  growth-marketing-and-sales/how-we-help-clients/ dynamic-pricing}. [abgerufen
+  am 17. Mai 2022].
 
 \bibitem{chatlogue_chatbot_tasks}
 Chatlogue, ``{C}hatbots im {E}-{C}om\-merce - {C}hatbots verbessern die
   {K}un\-den\-kom\-mu\-ni\-ka\-tion.''
 \newblock [Online].
-  \href{https://chatlogue.com/chatbots-im-e-commerce/}{https://chatlogue.com/chatbots-im-e-commerce/}.
-  [abgerufen am 17. Mai 2022].
+  \href{https://chatlogue.com/chatbots-im-e-commerce/}{https://chatlogue
+  .com/chatbots-im-e-commerce/}. [abgerufen am 17. Mai 2022].
+
+\bibitem{Song_2019}
+X.~Song, S.~Yang, Z.~Huang, and T.~Huang, ``The application of artificial
+  intelligence in electronic commerce,'' {\em Journal of Physics: Conference
+  Series}, vol.~1302, p.~032030, August 2019.
+\newblock [Online].
+  \href{https://iopscience.iop.org/article/10.1088/1742-6596/1302/3/032030/pdf}{The
+  Application of Artificial Intelligence in Electronic Commerce}. [abgerufen am
+  01.06.2022].
+
+\bibitem{Soni_2020}
+V.~D. Soni, ``Emerging roles of artificial intelligence in ecommerce,'' {\em
+  International Journal of Trend in Scientific Research and Development},
+  vol.~4, pp.~pp.223--25, Juli 2020.
+\newblock [Online]. \href{https://ssrn.com/abstract=3648698}{Emerging Roles of
+  Artificial Intelligence in Ecommerce}. [abgerufen am 01.06.2022].
+
+\bibitem{Keerthana_2021}
+V.~Keerthana, P.~Prasannakumar, B.~E. Abishek, C.~A. Stephen, and
+  A.~Vijayalakshmi, ``Data filtering and visualization for sentiment analysis
+  of ecommerce websites,'' {\em Proceedings of the International Conference on
+  IoT Based Control Networks \& Intelligent Systems - ICICNIS 2021}, vol.~4,
+  p.~9, Juli 2021.
+\newblock [Online]. \href{https://ssrn.com/abstract=3882733}{Data Filtering and
+  Visualization for Sentiment Analysis of Ecommerce Websites}. [abgerufen am
+  01.06.2022].
+
+\bibitem{Wong_2020}
+A.-N. Wong and B.~P. Marikannan, ``Optimising e-commerce customer satisfaction
+  with machine learning,'' {\em Journal of Physics: Conference Series},
+  vol.~1712, p.~012044, dec 2020.
+\newblock [Online].
+  \href{https://iopscience.iop.org/article/10.1088/1742-6596/1302/3/032030/pdf}{https://iopscience.iop.org/article/10.1088/
+  1742-6596/1302/3/032030/pdf}. [abgerufen am 01.06.2022].
+
+\bibitem{Lv_2021}
+J.~Lv, ``Optimization of e-commerce logistics system based on artificial
+  intelligence technology,'' {\em Journal of Physics: Conference Series},
+  vol.~1881, p.~032062, apr 2021.
+\newblock [Online].
+  \href{https://iopscience.iop.org/article/10.1088/1742-6596/1881/3/032062/pdf}{https://iopscience.iop.org/article/10.1088/
+  1742-6596/1881/3/032062/pdf}. [abgerufen am 01.06.2022].
+
+\bibitem{Abdul_Hussien_2021}
+F.~T.~A. Hussien, A.~M.~S. Rahma, and H.~B.~A. Wahab, ``Recommendation systems
+  for e-commerce systems an overview,'' {\em Journal of Physics: Conference
+  Series}, vol.~1897, p.~012024, may 2021.
+\newblock [Online].
+  \href{https://iopscience.iop.org/article/10.1088/1742-6596/1897/1/012024}{https://iopscience.iop.org/article/10.1088/
+  1742-6596/1897/1/012024}. [abgerufen am 01.06.2022].
+
+\bibitem{Pan_2018}
+X.~Pan and T.~Zhang, ``Research on e-commerce automatic question answering
+  system model based on data mining,'' {\em Journal of Physics: Conference
+  Series}, vol.~1069, p.~012105, aug 2018.
+\newblock [Online].
+  \href{https://iopscience.iop.org/article/10.1088/1742-6596/1069/1/012105}{https://iopscience.iop.org/article/10.1088/
+  1742-6596/1069/1/012105}. [abgerufen am 01.06.2022].
+
+\bibitem{Jain_2021}
+S.~Jain and P.~Purandare, ``Study of the usability testing of e-commerce
+  applications,'' {\em Journal of Physics: Conference Series}, vol.~1964,
+  p.~042059, jul 2021.
+\newblock [Online].
+  \href{https://iopscience.iop.org/article/10.1088/1742-6596/1964/4/042059}{https://iopscience.iop.org/article/10.1088/
+  1742-6596/1964/4/042059}. [abgerufen am 01.06.2022].
 
 \end{thebibliography}
