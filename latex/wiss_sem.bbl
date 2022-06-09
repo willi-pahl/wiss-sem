@@ -57,6 +57,14 @@ V.~D. Soni, ``Emerging roles of artificial intelligence in ecommerce,'' {\em
 \newblock [Online]. \href{https://ssrn.com/abstract=3648698}{Emerging Roles of
   Artificial Intelligence in Ecommerce}. [abgerufen am 01.06.2022].
 
+\bibitem{Abdul_Hussien_2021}
+F.~T.~A. Hussien, A.~M.~S. Rahma, and H.~B.~A. Wahab, ``Recommendation systems
+  for e-commerce systems an overview,'' {\em Journal of Physics: Conference
+  Series}, vol.~1897, p.~012024, may 2021.
+\newblock [Online].
+  \href{https://iopscience.iop.org/article/10.1088/1742-6596/1897/1/012024}{https://iopscience.iop.org/article/10.1088/
+  1742-6596/1897/1/012024}. [abgerufen am 01.06.2022].
+
 \bibitem{Keerthana_2021}
 V.~Keerthana, P.~Prasannakumar, B.~E. Abishek, C.~A. Stephen, and
   A.~Vijayalakshmi, ``Data filtering and visualization for sentiment analysis
@@ -72,8 +80,8 @@ A.-N. Wong and B.~P. Marikannan, ``Optimising e-commerce customer satisfaction
   with machine learning,'' {\em Journal of Physics: Conference Series},
   vol.~1712, p.~012044, dec 2020.
 \newblock [Online].
-  \href{https://iopscience.iop.org/article/10.1088/1742-6596/1302/3/032030/pdf}{https://iopscience.iop.org/article/10.1088/
-  1742-6596/1302/3/032030/pdf}. [abgerufen am 01.06.2022].
+  \href{https://iopscience.iop.org/article/10.1088/1742-6596/1712/1/012044/pdf}{https://iopscience.iop.org/article/10.1088/1742-6596/1712/1/012044/pdf}.
+  [abgerufen am 01.06.2022].
 
 \bibitem{Lv_2021}
 J.~Lv, ``Optimization of e-commerce logistics system based on artificial
@@ -83,14 +91,6 @@ J.~Lv, ``Optimization of e-commerce logistics system based on artificial
   \href{https://iopscience.iop.org/article/10.1088/1742-6596/1881/3/032062/pdf}{https://iopscience.iop.org/article/10.1088/
   1742-6596/1881/3/032062/pdf}. [abgerufen am 01.06.2022].
 
-\bibitem{Abdul_Hussien_2021}
-F.~T.~A. Hussien, A.~M.~S. Rahma, and H.~B.~A. Wahab, ``Recommendation systems
-  for e-commerce systems an overview,'' {\em Journal of Physics: Conference
-  Series}, vol.~1897, p.~012024, may 2021.
-\newblock [Online].
-  \href{https://iopscience.iop.org/article/10.1088/1742-6596/1897/1/012024}{https://iopscience.iop.org/article/10.1088/
-  1742-6596/1897/1/012024}. [abgerufen am 01.06.2022].
-
 \bibitem{Pan_2018}
 X.~Pan and T.~Zhang, ``Research on e-commerce automatic question answering
   system model based on data mining,'' {\em Journal of Physics: Conference
@@ -98,13 +98,5 @@ X.~Pan and T.~Zhang, ``Research on e-commerce automatic question answering
 \newblock [Online].
   \href{https://iopscience.iop.org/article/10.1088/1742-6596/1069/1/012105}{https://iopscience.iop.org/article/10.1088/
   1742-6596/1069/1/012105}. [abgerufen am 01.06.2022].
-
-\bibitem{Jain_2021}
-S.~Jain and P.~Purandare, ``Study of the usability testing of e-commerce
-  applications,'' {\em Journal of Physics: Conference Series}, vol.~1964,
-  p.~042059, jul 2021.
-\newblock [Online].
-  \href{https://iopscience.iop.org/article/10.1088/1742-6596/1964/4/042059}{https://iopscience.iop.org/article/10.1088/
-  1742-6596/1964/4/042059}. [abgerufen am 01.06.2022].
 
 \end{thebibliography}
